@@ -5,4 +5,4 @@
 - Generator가 (30, 30)을 입력으로 받아서 (32, 32) 이미지를 생성하며 Discriminator가 원본인지 가짜인지를 판단  
 
 ## Architecture  
-<img src = "./architecture.PNG" width="50%"></center>  
+<img src = "./architecture.PNG" width="100%"></center>  
