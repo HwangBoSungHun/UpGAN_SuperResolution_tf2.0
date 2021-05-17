@@ -6,3 +6,8 @@
 
 ## Architecture  
 <img src = "./architecture.PNG" width="100%"></center>  
+
+## 적용 결과  
+<img src = "UpGAN.gif" width="100%"></center>  
+- GAN을 통해 생성된 이미지가 차량의 형태를 띠기는 했지만, 원본 이미지에 미치지 못함
+- 단순한 모델과 적은 데이터, 적절하지 않은 Loss가 문제라고 판단
